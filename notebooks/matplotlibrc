@@ -1,0 +1,24 @@
+#Text
+#font.family : serif
+#font.serif : Computer Modern Roman
+#font.sans-serif : Computer Modern Sans Serif
+font.monospace : Computer Modern Typewriter
+text.usetex : true
+#Axes
+axes.titlesize : 16
+axes.labelsize : 16
+#Lines
+lines.linewidth : 2
+#Ticks
+xtick.labelsize : 12
+ytick.labelsize : 12
+xtick.major.pad : 8
+xtick.minor.pad : 8
+ytick.major.pad : 8
+ytick.minor.pad : 8
+#Legend
+legend.fontsize : 10
+#Save
+#savefig.dpi : 500
+#savefig.format : png
+#savefig.bbox : tight
